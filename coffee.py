@@ -1,3 +1,10 @@
+"""
+Statement of Requirements
+"""
+
+
+
+
 price = 75
 accepted_coin = [50,20,10,5]
 
